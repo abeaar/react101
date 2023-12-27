@@ -1,0 +1,5 @@
+// DONT FORGET TO INSTALL PNPM THROUGH YOUR COMMAND OR TERMINAL 
+
+use this command on your own pc before starting any react project 
+1. PNPM INSTALL 
+2. PNPM RUN DEV
